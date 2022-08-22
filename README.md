@@ -1,3 +1,12 @@
+Trying to make it work on touchOSC mk1 on an iPad 1..
+
+Props to renderedghost for the initial work..!
+
+
+
+
+
+
 ![Latest Version](https://github.com/renderghost/endlesss-studio-osc/blob/main/thumb-latest-version.jpg)
 
 # :control_knobs: Control **Endlesss Studio** with your iPad and TouchOSC
